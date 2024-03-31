@@ -62,5 +62,5 @@ Available operation codes:
 # AUTORS
 ```
  Yonas G/hiwot   : yonihabeshaw@gmail.com 
- Dagmawit Terefe : metlklgn dagm24b@gmail.com
+ Dagmawit Terefe : dagm24b@gmail.com
 ```
