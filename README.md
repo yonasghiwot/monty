@@ -8,6 +8,7 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
 ```
 ## Monty byte code files
 
+ metlklgn dagm24b@gmail.com
 Files containing Monty byte codes usually have the .m extension. Most of the industry uses this standard but it is not required by the specification of the language. There is not more than one instruction per line. There can be any number of spaces before or after the opcode and its argument:
 
 ```
@@ -57,9 +58,8 @@ Available operation codes:
 #rotr   | Rotates the bottom of the stack to the top of the stack.|
 #stack  | This is the default behavior. Sets the format of the data into a stack (LIFO).|
 #queue  | Sets the format of the data into a queue (FIFO).|
-```
-** by :- Yonas G/hiwot
-       and Dagmawit Terefe
-``` Yonas G/hiwot   : yonihabeshaw@gmail.com
-    Dagmawit Terefe : metlklgn dagm24b@gmail.com
 
+
+#AUTORS
+``` Yonas G/hiwot   : yonihabeshaw@gmail.com 
+``` Dagmawit Terefe : metlklgn dagm24b@gmail.com
