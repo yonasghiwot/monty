@@ -35,7 +35,7 @@ All the files are compiled in the following form:
 To run the program:
 
 ```
- ./monty bytecode_file
+ ./monty test_bytecodes
 ```
 Available operation codes:
 ```
