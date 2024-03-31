@@ -59,6 +59,7 @@ Available operation codes:
 #queue  | Sets the format of the data into a queue (FIFO).|
 ```
 ** by :- Yonas G/hiwot
-         Dagmawit Terefe
-```
+       and Dagmawit Terefe
+``` Yonas G/hiwot   : yonihabeshaw@gmail.com
+    Dagmawit Terefe : metlklgn dagm24b@gmail.com
 
