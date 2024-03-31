@@ -38,6 +38,7 @@ To run the program:
  ./monty bytecode_file
 ```
 Available operation codes:
+```
 # push  |Pushes an element to the stack. e.g (push 1 # pushes 1 into the stack)|
 # pall  |Prints all the values on the stack, starting from the to of the stack.|
 #pint   | Prints the value at the top of the stack.|
@@ -56,6 +57,6 @@ Available operation codes:
 #rotr   | Rotates the bottom of the stack to the top of the stack.|
 #stack  | This is the default behavior. Sets the format of the data into a stack (LIFO).|
 #queue  | Sets the format of the data into a queue (FIFO).|
-
+```
  ** by Yonas and Dagmawit
 
