@@ -58,5 +58,7 @@ Available operation codes:
 #stack  | This is the default behavior. Sets the format of the data into a stack (LIFO).|
 #queue  | Sets the format of the data into a queue (FIFO).|
 ```
- ** by Yonas and Dagmawit
+** by :- Yonas G/hiwot
+         Dagmawit Terefe
+```
 
